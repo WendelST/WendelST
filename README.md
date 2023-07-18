@@ -1,6 +1,6 @@
 ## 𝗘𝗮𝗲! 𝗘𝘂 𝘀𝗼𝘂 𝗪𝗲𝗻𝗱𝗲𝗹 𝗔𝗹𝗺𝗲𝗶𝗱𝗮
 
-- 🌱 Estou estudando HTML/CSS e JAVASCRIPT e C#
+- 🌱 Estou estudando HTML/CSS, JAVASCRIPT e C#
 
 <div align="center">
   <a href="https://github.com/WendelST">
